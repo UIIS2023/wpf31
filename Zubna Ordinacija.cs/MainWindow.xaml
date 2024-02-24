@@ -1,0 +1,41 @@
+﻿<Window x:Class="Zubna_Ordinacija.cs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zubna_Ordinacija.cs"
+        mc:Ignorable="d"
+        Title="Zubna ordinacija" Height="450" Width="800">
+    <Grid>
+
+        <DataGrid Name="dataGridCentralni" HorizontalAlignment="Center"
+                  Height="251" VerticalAlignment="Top" Width="442" AlternatingRowBackground="LightGray" IsReadOnly="true" CanUserAddRows="False"
+                  SelectionUnit="FullRow" SelectionMode="Single" Margin="0,66,0,0"/>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top"
+                    Width="auto" Height="30" Orientation="Horizontal">
+            <Button Name="BtnPacijenti" Content="Pacijenti" Height="30" Width="75" HorizontalAlignment="Left" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnPacijenti_Click" FontWeight="Black"/>
+            <Button Name="BtnZdravstveniRadnici" Content="Zdravsteni radnici" HorizontalAlignment="Left" Height="30" Width="120" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnZdravstveniRadnici_Click" FontWeight="Black"/>
+            <Button Name="BtnMedicinskiKartoni" Content="Medicinski kartoni" HorizontalAlignment="Left" Height="30" Width="120" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnMedicinskiKartoni_Click" FontWeight="Black"/>
+            <Button Name="BtnDijagnoze" Content="Dijagnoze" HorizontalAlignment="Left" Height="30" Width="80" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnDijagnoze_Click" FontWeight="Black"/>
+            <Button Name="BtnTerapije" Content="Izvestaji" HorizontalAlignment="Left" Height="30" Width="75" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnTerapije_Click" FontWeight="Black"/>
+            <Button Name="BtnTermini" Content="Termini" HorizontalAlignment="Left" Height="30" Width="75" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnTermini_Click" FontWeight="Black"/>
+            <Button Name="BtnRacuni" Content="Isplate" HorizontalAlignment="Left" Height="30" Width="75" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnRacuni_Click" FontWeight="Black"/>
+            <Button Name="BtnOsiguranja" Content="Osiguranja" HorizontalAlignment="Left" Height="30" Width="75" VerticalAlignment="Top" Background="CornflowerBlue" Click="BtnOsiguranja_Click" FontWeight="Black"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" 
+                    Width="352" Height="30" Orientation="Horizontal">
+            <Button Name="BtnDodaj" Content="Dodaj" Width="117" Click="BtnDodaj_Click" Background="LightGoldenrodYellow" FontWeight="Black"/>
+            <Button Name="BtnIzmeni" Content="Izmeni" Width="117" Click="BtnIzmeni_Click" Background="LightGoldenrodYellow" FontWeight="Black"/>
+            <Button Name="BtnObrisi" Content="Obrisi" Width="117" Click="BtnObrisi_Click" Background="LightGoldenrodYellow" FontWeight="Black"/>
+
+        </StackPanel>
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>

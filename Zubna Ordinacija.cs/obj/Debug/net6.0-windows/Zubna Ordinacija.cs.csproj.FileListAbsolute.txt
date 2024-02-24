@@ -1,0 +1,220 @@
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.exe
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.deps.json
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.runtimeconfig.json
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.AssemblyReference.cache
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.cache
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.lref
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.g.resources
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfoInputs.cache
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfo.cs
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CopyComplete
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\refint\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.genruntimeconfig.cache
+C:\Users\Dunja\source\repos\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\ref\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.exe
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.deps.json
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.runtimeconfig.json
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.AssemblyReference.cache
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.cache
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.lref
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.g.resources
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfoInputs.cache
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfo.cs
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CopyComplete
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\refint\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.genruntimeconfig.cache
+C:\Users\Dunja\Downloads\Zubna Ordinacija.cs\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\ref\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.exe
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.deps.json
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.runtimeconfig.json
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.AssemblyReference.cache
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.cache
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.lref
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTerapiju.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.g.resources
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfoInputs.cache
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfo.cs
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CoreCompileInputs.cache
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CopyComplete
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\refint\Zubna Ordinacija.cs.dll
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.genruntimeconfig.cache
+C:\Users\Dunja\Desktop\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\ref\Zubna Ordinacija.cs.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.exe
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.deps.json
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.runtimeconfig.json
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.AssemblyReference.cache
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.cache
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.lref
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.g.resources
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfoInputs.cache
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfo.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CoreCompileInputs.cache
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CopyComplete
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\refint\Zubna Ordinacija.cs.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.genruntimeconfig.cache
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\ref\Zubna Ordinacija.cs.dll
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajIzvestaj.g.cs
+C:\Users\38169\Downloads\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajIzvestaj.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.exe
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.deps.json
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.runtimeconfig.json
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.AssemblyReference.cache
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajIzvestaj.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.cache
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs_MarkupCompile.lref
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DdodajMedicinskiKarton.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajDijagnozu.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajIzvestaj.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajOsiguranje.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajPacijenta.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajRacun.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajTermin.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Forme\DodajZdravstvenogRadnika.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.g.resources
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfoInputs.cache
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.AssemblyInfo.cs
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CoreCompileInputs.cache
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.csproj.CopyComplete
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\refint\Zubna Ordinacija.cs.dll
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.pdb
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\Zubna Ordinacija.cs.genruntimeconfig.cache
+C:\Users\urosd\OneDrive\Desktop\ZubnaOrdinacija\ZubnaOrdinacija\ZubnaOrdinacija\Zubna Ordinacija.cs\Zubna Ordinacija.cs\obj\Debug\net6.0-windows\ref\Zubna Ordinacija.cs.dll

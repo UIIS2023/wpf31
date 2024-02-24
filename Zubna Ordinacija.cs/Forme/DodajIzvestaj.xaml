@@ -1,0 +1,25 @@
+﻿<Window x:Class="Zubna_Ordinacija.cs.Forme.DodajTerapiju"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zubna_Ordinacija.cs.Forme"
+        mc:Ignorable="d"
+        Title="Dodaj Izvestaj" Height="450" Width="604">
+    <Grid>
+        
+        <Label Content="Razlog posete:" HorizontalAlignment="Left" Margin="57,31,0,0" VerticalAlignment="Top" FontWeight="Black"/>
+        <TextBox Name="txtRazlog" HorizontalAlignment="Left" Margin="165,31,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Height="26"/>
+        <Label Content="Terapija:" HorizontalAlignment="Left" Margin="57,94,0,0" VerticalAlignment="Top" FontWeight="Black"/>
+        <TextBox Name="txtTerapija" HorizontalAlignment="Left" Margin="165,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="194" Height="26"/>
+        <Label Content="Pacijent:" HorizontalAlignment="Left" Margin="57,156,0,0" VerticalAlignment="Top" FontWeight="Black"/>
+        <ComboBox Name="cbPacijent" HorizontalAlignment="Left" Margin="165,144,0,0" VerticalAlignment="Top"  DisplayMemberPath="Pacijent" SelectedValuePath="pacijentID" Width="194" Height="30"/>
+        <Label Content="Dijagnoza:" HorizontalAlignment="Left" Margin="59,206,0,0" VerticalAlignment="Top" FontWeight="Black"/>
+        <Label Content="Zaposleni:" HorizontalAlignment="Left" Margin="58,274,0,0" VerticalAlignment="Top" FontWeight="Black"/>
+        <Button Name="BtnSacuvaj" Content="Sacuvaj" HorizontalAlignment="Left" Margin="96,331,0,0" VerticalAlignment="Top" FontWeight="Black" Click="BtnSacuvaj_Click" Height="30" Width="90"/>
+        <Button Name="BtnZatvori" Content="Zatvori" HorizontalAlignment="Left" Margin="269,331,0,0" VerticalAlignment="Top" FontWeight="Black" Click="BtnZatvori_Click" Height="30" Width="90"/>
+        <ComboBox Name="cbDijagnoza" HorizontalAlignment="Left" Margin="165,208,0,0" VerticalAlignment="Top"  DisplayMemberPath="Dijagnoza" SelectedValuePath="dijagnozaID" Width="194" Height="30"/>
+        <ComboBox Name="cbZaposleni" HorizontalAlignment="Left" Margin="165,272,0,0" VerticalAlignment="Top"  DisplayMemberPath="Zaposleni" SelectedValuePath="zaposleniID" Width="194" Height="30"/>
+
+    </Grid>
+</Window>

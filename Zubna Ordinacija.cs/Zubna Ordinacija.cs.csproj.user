@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Forme\DodajDijagnozu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajOsiguranje.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajPacijenta.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajRacun.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajIzvestaj.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajTermin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DodajZdravstvenogRadnika.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Forme\DdodajMedicinskiKarton.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Forme\DodajDijagnozu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajOsiguranje.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajPacijenta.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajRacun.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajIzvestaj.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajTermin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DodajZdravstvenogRadnika.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Forme\DdodajMedicinskiKarton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
